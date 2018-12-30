@@ -5,6 +5,7 @@ logs/
 results/
 temp/
 test/
+samples/vertebral/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -56,3 +57,6 @@ pip-delete-this-directory.txt
 .venv
 venv/
 ENV/
+
+# mac
+.DS_Store
